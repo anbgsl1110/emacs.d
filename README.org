@@ -1,4 +1,4 @@
-* 引入emacs配置文件
+* 引入emacs配置
 - Add =(setq package-archives '(("myelpa" . "~/projs/myelpa/")))= into =~/.emacs.d/lisp/init-elpa.el= 
 * 引入css文件代码
 ** 展示类
