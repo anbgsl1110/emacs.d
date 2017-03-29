@@ -1,5 +1,9 @@
-(setq package-archives '(("myelpa" . "~/myelpa/")))
 * 引入css文件代码
+** 展示类
+#+begin_src
+<link rel = "stylesheet" type = "text/css" href = "http://www.anbgsl1110-dms-aliang.space/css/org.css" />
+#+end_src
+** 嵌入类
 #+begin_src 
 <link rel="stylesheet" title="Standard" href="http://www.anbgsl1110-dms-aliang.space/css/worg.css" type="text/css" />
 <link rel="alternate stylesheet" title="Zenburn" href="http://www.anbgsl1110-dms-aliang.space/css/worg-zenburn.css" type="text/css" />
